@@ -4,4 +4,6 @@ Habituarnos al ciclo de trabajo con Git
 
 Conflicto tipo 3
 
+Volver a una version anterior
+
 
