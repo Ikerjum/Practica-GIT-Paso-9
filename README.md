@@ -2,5 +2,6 @@
  
 Habituarnos al ciclo de trabajo con Git
 
-Conflictos resueltos
+Conflicto tipo 3
+
 
