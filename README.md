@@ -3,3 +3,4 @@
 Habituarnos al ciclo de trabajo con Git
 
 Conflicto tipo 2
+Conflicto tipo 3
