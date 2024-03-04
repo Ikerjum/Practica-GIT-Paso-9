@@ -4,4 +4,5 @@ Habituarnos al ciclo de trabajo con Git
 
 Conflicto tipo 3
 
+Creada la nueva función propuesta por el estudiante B
 
