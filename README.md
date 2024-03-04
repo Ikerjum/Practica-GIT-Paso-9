@@ -6,4 +6,6 @@ Conflicto tipo 3
 
 Actualizacion ramas
 
+Creada la nueva función propuesta por el estudiante B
+
 
